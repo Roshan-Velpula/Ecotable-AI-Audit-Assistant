@@ -1,0 +1,12 @@
+langchain==0.2.1
+langchain_community==0.2.1
+langchain_groq==0.1.4
+pandas==1.2.3
+pandas==1.4.2
+pandas==1.4.4
+pandas==1.5.3
+pandas==2.0.3
+psycopg2==2.9.9
+python-dotenv==1.0.1
+streamlit==1.35.0
+streamlit==1.31.1
